@@ -1,1 +1,2 @@
 # demo-2
+# In objective 2 step 3, i did the following: "Confirm the total number of Canon and Fujifilm camera models identified in the new DataFrames to ensure it is the same as in the csv". This was due to how I wanted to confirm that the length that is was using to run this test was accurate and the same as when I manually counted on the excel sheet 
